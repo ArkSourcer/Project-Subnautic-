@@ -26,5 +26,5 @@ alwaysUnlocked: true
 research: {
 	root: true
 	requiresUnlock: false
-	name: Metafactory
+	name: Tantros
 }
