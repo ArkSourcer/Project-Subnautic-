@@ -1,4 +1,4 @@
-# Project-Subnautic-
+# Project-Subnautic
 Little project
 
 sussy baka
