@@ -22,7 +22,9 @@ craftTime: 210
 craftEffect: pickup
 updateEffect: smoke
 category: crafting
-research: duo
-requirements: [
-	copper/30
-]
+alwaysUnlocked: true
+research: {
+	root: true
+	requiresUnlock: false
+	name: Metafactory
+}
