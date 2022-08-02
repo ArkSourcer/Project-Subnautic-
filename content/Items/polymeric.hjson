@@ -1,21 +1,10 @@
-Details: Producto resistente a la electricidad pero inflamable
 name: Polymeric
 description: Description: Aleacion del petroleo que sirve como aislante electrico.
+Details: Producto resistente a la electricidad pero inflamable
 hardness: 2
 charge: -1
 flammability: 1
 color: "06050d"
-research: oil
-alwaysUnlocked: false
+research: tantros
+alwaysUnlocked: true
 playerUnmineable: false
-
-//Este mensaje va para vector. No lo toques castrozo//
-
-//este mensaje va pa ark. nmms deja te corrijo las faltas de autografia >:v//
-
-//mensaje 2, como se pone que es inflamable xd? ya se que esta bajo el awa pero xd, pa dar realismo//
-
-//mensaje 3, pq en ingles? -> porque asi esta en el código del juego//
-
-//La gente que venga a agarrar este codigo de ejemplo veran esta conversación xd//
-//Ok casteozo lo pongo con inflamación//
