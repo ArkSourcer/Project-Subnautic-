@@ -1,15 +1,12 @@
 type: GenericCrafter
-name: Metafactory
+name: Polymericfactory
 description: No se
 size: 2
 squareSprite: false
 itemCapacity: 20
 consumes: {
 	items: {
-		items: [
-			copper/2
-		]
-	}
+		
 	liquid: {
 		liquid: oil
 		amount: 0.2
@@ -17,7 +14,7 @@ consumes: {
 	}
 	power: 0.5
 }
-outputItem: plastanium/2
+outputItem: polymeric/2
 craftTime: 210
 craftEffect: pickup
 updateEffect: smoke
