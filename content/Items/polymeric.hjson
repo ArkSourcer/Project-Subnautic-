@@ -1,0 +1,8 @@
+Type: Item
+ Name: Polymeric
+ Description: aleacion del petroleo que sirve como aislante termico
+  Details: Producto resistente y interesante.
+Hardness: 2
+charge: -1
+
+//Este mensaje va para vector. No lo toques castrozo//
