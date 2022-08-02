@@ -1,10 +1,11 @@
 name: Polymeric
-description: Description: Aleacion del petroleo que sirve como aislante electrico.
-Details: Producto resistente a la electricidad pero inflamable
-hardness: 2
+description: "Material creado a base de petroleo"
+cost: 1.0
+hardness: 1
 charge: -1
-flammability: 1
-color: "06050d"
+explosiveness: 0.5
+color: "c5c7c9"
+alwaysUnlocked: false
 research: {
 root: true
 requiresUnlock: false
