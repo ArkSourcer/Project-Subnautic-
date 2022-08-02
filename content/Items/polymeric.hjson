@@ -5,6 +5,10 @@ hardness: 2
 charge: -1
 flammability: 1
 color: "06050d"
-research: tantros
+research: {
+root: true
+requiresUnlock: false
+name: Tantros
+}
 alwaysUnlocked: true
 playerUnmineable: false
