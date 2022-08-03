@@ -23,8 +23,4 @@ craftEffect: pickup
 updateEffect: smoke
 category: crafting
 alwaysUnlocked: true
-research: {
-	root: true
-	requiresUnlock: false
-	name: Tantros
-}
+research: Polymeric
