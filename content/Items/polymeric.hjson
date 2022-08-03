@@ -1,15 +1,14 @@
-name: Polymeric
-description: "Material creado a base de petroleo"
-cost: 1.0
-hardness: 1
-charge: -1
-explosiveness: 0.5
-color: "c5c7c9"
-alwaysUnlocked: true
-playerUnmineable: false
-
 research: {
 	root: true
 	requiresUnlock: false
 	name: Tantros
 }
+name: Polymeric
+description: "Material creado a base de petroleo"
+cost: 1.0
+hardness: 1
+explosiveness: 0.1
+color: "c5c7c9"
+category: Polymeric
+research: Tantros
+alwaysUnlocked: false
