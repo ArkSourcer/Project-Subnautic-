@@ -1,4 +1,6 @@
 //no tocar//
+Vars.enableConsole = true;
+
 const korot = new Planet("korot", Planets.sun, 2)
 korot.generator = new SerpuloPlanetGenerator();
 korot.accessible = true;
