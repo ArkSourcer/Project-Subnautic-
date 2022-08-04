@@ -21,5 +21,6 @@ outputItem: plastanium/2
 craftTime: 210
 craftEffect: pickup
 updateEffect: smoke
+root: true
 category: crafting
 alwaysUnlocked: true
