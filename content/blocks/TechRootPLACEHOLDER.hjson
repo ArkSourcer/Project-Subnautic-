@@ -1,6 +1,6 @@
 type: GenericCrafter
 name: Metafactory
-description: No se
+description: Reemplazable
 size: 2
 squareSprite: false
 itemCapacity: 20
