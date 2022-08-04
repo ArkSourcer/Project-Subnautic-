@@ -1,8 +1,0 @@
-name: Polymeric 
-cost: 1.0
-hardness: 1
-explosiveness: 0.1
-color: "c5c7c9"
-category: zinc
-alwaysUnlocked: false
-research: copper
