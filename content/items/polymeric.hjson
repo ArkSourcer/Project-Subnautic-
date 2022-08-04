@@ -12,4 +12,14 @@ research: {
 	requirements: [
 		copper/20
 	]	
+	objetives: [
+			{
+				type: onSector
+				preset: oneset
+			}
+			{
+				type: UnlockableContent
+				content: breach
+			}
+	]
 }
