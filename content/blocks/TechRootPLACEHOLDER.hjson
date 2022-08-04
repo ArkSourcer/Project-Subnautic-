@@ -23,4 +23,3 @@ craftEffect: pickup
 updateEffect: smoke
 category: crafting
 alwaysUnlocked: true
-research: Polymeric
