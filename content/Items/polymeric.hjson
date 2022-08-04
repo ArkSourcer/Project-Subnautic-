@@ -3,11 +3,11 @@ research: {
 	requiresUnlock: false
 	name: Tantros
 }
-name: Polymeric
-description: "Material creado a base de petroleo"
+name: Polymeric 
 cost: 1.0
 hardness: 1
 explosiveness: 0.1
 color: "c5c7c9"
-category: Polymeric
+category: zinc
 alwaysUnlocked: false
+#60
