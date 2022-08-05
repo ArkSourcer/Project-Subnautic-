@@ -7,19 +7,4 @@ flammability: 0.7
 color: "c5c7c9"
 category: polymers
 details: insulating material but highly flammable on contact with fire
-research: {
-	parent: TechRootPLACEHOLDER
-	requirements: [
-		copper/20
-	]	
-	objetives: [
-			{
-				type: onSector
-				preset: oneset
-			}
-			{
-				type: UnlockableContent
-				content: breach
-			}
-	]
-}
+research: TechRootPLACEHOLDER
